@@ -1,2 +1,2 @@
 # AllMyPC
-Awesome tweak help you control multi pc. Freeeeeee, unlimit
+Awesome tweak help you control multi pc. Freeeeeee, unlimit devices, cross platform,...
