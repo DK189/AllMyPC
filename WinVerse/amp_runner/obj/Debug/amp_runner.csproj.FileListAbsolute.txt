@@ -1,0 +1,9 @@
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\bin\Debug\amp_runner.exe.config
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\bin\Debug\amp_runner.exe
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\bin\Debug\amp_runner.pdb
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\obj\Debug\amp_runner.csprojAssemblyReference.cache
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\obj\Debug\amp_runner.csproj.GenerateResource.cache
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\obj\Debug\amp_runner.csproj.CoreCompileInputs.cache
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\obj\Debug\amp_runner.exe
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\obj\Debug\amp_runner.pdb
+C:\Workspace\DK.GITHUB\AllMyPC\WinVerse\amp_runner\obj\Debug\amp_runner.Runners.UdpRunner.resources
